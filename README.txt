@@ -1,0 +1,1 @@
+This was a 2 week project done at the end of my Structures of Game Design class. Assets were taken from free websites and created in house by myself.
